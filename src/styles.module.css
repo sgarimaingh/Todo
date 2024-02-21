@@ -1,0 +1,71 @@
+body{
+    margin-top: 0;
+    font-family: sans-serif;
+    background-color:gainsboro;
+}
+
+.header{
+    background-color:cadetblue;
+    font-size: 2.5em;
+    text-align: center;
+    color: white;
+    height: 70px;
+    padding: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.todoForm{
+    width: 100%;
+    margin:auto;
+    margin-top: 20px;
+}
+
+.todoInput{
+    width: 50%;
+    margin-top: 20px;
+    margin-left:370px;
+    text-align: center;
+    border:rgb(17, 130, 74);
+    font-size: 1.2em;
+    border-style: double;
+    border-color: rgb(17, 130, 74);
+}
+
+.todoButton{
+    margin-top: 20px;
+    margin-left:630px;
+    text-align: center;
+    font-size: 1.5em;
+    height: 60%;
+    width:15%;
+    border: none;
+    background-color: cadetblue;
+    color:azure;
+}
+
+.todoItem{
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+
+}
+
+.todoName{
+    color:teal;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.deleteButton{
+    margin-top: 4px;
+    margin-left: 5px;
+    font-size: 1em;
+    height: 30px;
+    width:7%;
+    border: none;
+    border-radius: 2;
+    background-color: crimson;
+    color:azure;
+
+}
