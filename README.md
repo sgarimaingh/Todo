@@ -1,6 +1,11 @@
 #  To-Do List
 
-This project is created for self-learning purpose for better understanding of react.js
+This project has been developed with the explicit aim of facilitating self-learning with regards to the React.js library.
+
+## Features
+1. Add items to the To-do list.
+2. Delete items from the list.
+3. Render items of the To-DO list.
 
 ## How to run
 
