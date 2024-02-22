@@ -7,7 +7,10 @@ This project has been developed with the explicit aim of facilitating self-learn
 2. Delete items from the list.
 3. Render items of the To-DO list.
 
-## How to run
+## To see the deployed project
+visit https://todo-app-rose-six.vercel.app/
+
+## How to run locally
 
 In the project directory, you can run:
 
